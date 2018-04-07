@@ -1,0 +1,53 @@
+{
+  "ConfigDirectory": "C:\\Users\\brent\\Source\\Workspaces\\Econ2015\\Econ2015\\Econ2015\\bin\\Debug\\config",
+  "CoreList": [
+    "fceumm_libretro.dll"
+  ],
+  "CoreMappings": {
+    ".nes": "fceumm_libretro.dll",
+    ".smc": "snes9x.dll"
+  },
+  "InstallDirectory": "C:\\Users\\brent\\Source\\Workspaces\\Econ2015\\Econ2015\\Econ2015\\bin\\Debug",
+  "RomDirectory": "C:\\Users\\brent\\Source\\Workspaces\\Econ2015\\Econ2015\\Econ2015\\bin\\Debug\\roms",
+  "RetroArchIntegrated": false,
+  "ValidExtensions": [
+    ".nes",
+    ".smc"
+  ],
+  "IgnoreExtensions": [
+    ".tmp",
+    ".bak"
+  ],
+
+  "FavoriteGameList": null,
+  "RecentGameList": null,
+
+  "ExtensionDirectoryMappings": {
+    ".nes": "\\nes",
+    ".smc": "\\snes"
+  },
+  "RomDirectorySystemAlias": {
+    "\\nes": "Nintendo",
+    "\\snes": "Super Nintendo"
+  },
+  "RomLibrary": [
+    {
+      "Name": "Abadox",
+      "System": "Nintendo",
+      "Core": "fceumm_libretro.dll",
+      "Extension": ".nes",
+      "Directory": "",
+      "SystemAlias": "NES",
+      "CommandString": ""
+    },
+    {
+      "Name": "Batman",
+      "System": "Nintendo",
+      "Core": "fceumm_libretro.dll",
+      "Extension": ".nes",
+      "Directory": "",
+      "SystemAlias": "NES",
+      "CommandString": ""
+    }
+  ]
+}
